@@ -1,0 +1,30 @@
+restuarants,fast_food,bar,wait_time,google_r,distance_campus,payment_options,hours_open,music_playing,sit_down,food_price,food_type,food_items
+Bella Ciao Pizzeria,0,0,20,4.9,1,4,82.75,1,1,0,0,34
+Blazin' J's,1,0,40,4.8,2,6,81,1,0,0,0,57
+Crepes & Churros D'France,0,0,10,4.9,2,5,70,1,0,0,1,13
+Campus Town Grill,0,0,15,5,1,4,93,1,1,0,0,99
+Mexican Mariachi Grill,1,0,20,4.7,2,5,77,1,1,0,0,30
+Yummy Sushi,0,1,25,4,2,4,70.5,0,1,0,0,74
+Lady and the Shallot,0,0,15,4.8,2,4,64,0,1,0,0,35
+Frutta Bowl,1,0,5,3.6,2,6,73,1,1,0,1,27
+Jersey Mike’s Subs,1,0,5,3.8,2,6,83,1,1,0,0,38
+Panera,0,0,15,3.8,2,4,104,1,1,0,0,103
+Ramen Nagomi,0,0,20,4.6,14,4,58.5,1,1,0,0,40
+Cheesecake Factory,0,1,25,3.5,14,6,80,1,1,1,0,250
+Done Right Doner Kebab,1,0,10,4.6,15,4,65.5,1,1,0,0,35
+Kpot Korean BBQ & Hot Pot,0,1,30,4.9,16,3,75.5,0,1,0,0,73
+Kung Fu Tea,1,0,5,3.8,15,4,67.5,1,0,0,1,42
+Ruby Thai Kitchen,1,0,20,4.9,15,4,73,0,0,0,0,18
+Sarku Japan ,1,0,10,3.5,15,5,73,0,0,0,0,47
+The Belt,0,0,15,4.7,15,3,73,0,0,0,0,24
+Popeyes Louisiana ,1,0,5,3.7,7,6,70,0,1,0,0,110
+Master Wok,1,0,10,2.9,15,5,72,0,0,0,0,21
+Auntie Anne's & Cinnabon,1,0,6,3.3,16,4,54,0,0,0,1,30
+Gregory Coffee,1,0,7,3.2,15,5,78,1,0,0,1,28
+Rosa Pizza,0,0,15,3.5,5,4,112,0,1,0,0,150
+Two Brothers ,0,0,15,4.8,1,3,80.5,1,1,0,0,123
+Applebee's,0,1,20,3.1,16,6,82.5,1,0,0,0,117
+Chucks Buffalo Grill,1,0,10,4.7,5,3,93,1,1,0,0,56
+Dunkin Donuts,1,0,5,2.5,7,6,126,0,1,0,0,136
+McDonalds,1,0,5,3.7,6,5,168,1,1,0,0,145
+El Mexicano Tacos El Gordo,0,0,25,4.4,8,4,91,1,1,0,0,96
